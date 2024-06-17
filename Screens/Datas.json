@@ -1,0 +1,1244 @@
+{
+    "FrontMobile" : [
+        {
+            "id" : 1,
+            "Name" : "Samsung Galaxy S24 Ultra 5G ( Titanium Violet, 12GB-256GB )",
+            "Brand" : "Samsung",
+            "Model" : "S24",
+            "Real_Price" : "Rs. 1,34,999",
+            "Price" : "Rs. 1,29,999",
+            "Discount" : "4% OFF",
+            "SortRealPrice":134999,
+            "SortDiscount":4,
+            "SortPrice" : 129999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 200MP + 50 MP + 12MP + 10MP | Front Camera 12MP",
+                "Features2" : "Dynamic AMOLED | 120Hz Refresh Rate",
+                "Features3" : "5000 mAh Battery | 45W Fast Charging Support"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Side-View.png"
+            }
+        },
+        {
+            "id" : 2,
+            "Name" : "Apple iPhone 15 Plus ( Green,128GB )",
+            "Brand" : "Apple",
+            "Model" : "15 Plus",
+            "Real_Price" : "Rs. 89,900",
+            "Price" : "Rs. 82,990",
+            "SortRealPrice":89900,
+            "SortDiscount":8,
+            "SortPrice" : 82990,
+            "Discount" : "8% OFF",
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/apple-iphone-15-plus-green-128gb-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 48MP + 12MP | Front Camera 12MP",
+                "Features2" : "Super Retina XDR OLED Display",
+                "Features3" : "A16 Bionic Chip | Built-in rechargeable lithium-ion Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-cam.png"
+            }
+        }
+    ],
+
+
+
+    "FrontLaptop" : [
+        {
+            "id" : 3,
+            "Name" : "HP Intel Core i5 12th Gen Windows 11 Home Laptop ( Natural Silver,8GB-512GB )",
+            "Brand" : "Hp",
+            "Model" : "Intel Core i5",
+            "Real_Price" : "Rs. 63,963",
+            "Price" : "Rs. 52,990",
+            "Discount" : "17% OFF",
+            "SortRealPrice":63963,
+            "SortDiscount":17,
+            "SortPrice" : 52990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-side-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel 12th Gen Core i5-1235U Processor",
+                "Features2" : "Intel Iris Xe Graphics | 15.6 FHD Anti-glare Display",
+                "Features3" : "Windows 11 Home | MS Office Home & Student 2021"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-side-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-front-view.png"
+            }
+        },
+        {
+            "id" : 4,
+            "Name" : "Lenovo Yoga 6 Gen 7 Ryzen R7 5700U Windows 11 Home 2 in 1 Laptop ( Dark Teal,16GB-512GB )",
+            "Brand" : "Lenovo",
+            "Model" : "Yoga 6 Gen 7 Ryzen",
+            "Real_Price" : "Rs. 1,13,290",
+            "Price" : "Rs. 73,990",
+            "Discount" : "35% OFF",
+            "SortRealPrice":113290,
+            "SortDiscount":35,
+            "SortPrice" : 73990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "AMD Ryzen 7 5700U Processor",
+                "Features2" : "WUXGA IPS Glossy Touch Display",
+                "Features3" : "Windows 11 Home | AMD Radeon Graphics"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-display.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-slide-view.png"
+            }
+        }
+    ],
+
+
+
+    "MobileViewAll" : [
+        {
+            "id" : 1,
+            "Name" : "Samsung Galaxy S24 Ultra 5G ( Titanium Violet, 12GB-256GB )",
+            "Brand" : "Samsung",
+            "Model" : "S24",
+            "Real_Price" : "Rs. 1,34,999",
+            "Price" : "Rs. 1,29,999",
+            "Discount" : "4% OFF",
+            "SortRealPrice":134999,
+            "SortDiscount":4,
+            "SortPrice" : 129999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 200MP + 50 MP + 12MP + 10MP | Front Camera 12MP",
+                "Features2" : "Dynamic AMOLED | 120Hz Refresh Rate",
+                "Features3" : "5000 mAh Battery | 45W Fast Charging Support"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Side-View.png"
+            }
+        },
+        {
+            "id" : 2,
+            "Name" : "Apple iPhone 15 Plus ( Green,128GB )",
+            "Brand" : "Apple",
+            "Model" : "15 Plus",
+            "Real_Price" : "Rs. 89,900",
+            "Price" : "Rs. 82,990",
+            "Discount" : "8% OFF",
+            "SortRealPrice":89900,
+            "SortDiscount":8,
+            "SortPrice" : 82990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/apple-iphone-15-plus-green-128gb-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 48MP + 12MP | Front Camera 12MP",
+                "Features2" : "Super Retina XDR OLED Display",
+                "Features3" : "A16 Bionic Chip | Built-in rechargeable lithium-ion Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-cam.png"
+            }
+        },
+        {
+            "id" : 5,
+            "Name" : "Realme 12x 5G ( Twilight Purple,6GB-128GB )",
+            "Brand" : "Realme",
+            "Model" : "12x",
+            "Real_Price" : "Rs. 17,999",
+            "Price" : "Rs. 13,499",
+            "Discount" : "25% OFF",
+            "SortRealPrice":17999,
+            "SortDiscount":25,
+            "SortPrice" : 13499,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "17.07 cm ( 6.72 inch ), Up to 120Hz Refresh Rate, FHD+",
+                "Features2" : "50MP+ 2MP Rear Camera | 8MP Front Camera",
+                "Features3" : "5000mAh Battery | 45W SUPERVOOC Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Front-Side-View.png"
+            }
+        },
+        {
+            "id" : 6,
+            "Name" : "Vivo V30e 5G ( Velvet Red, 8GB-128GB )",
+            "Brand" : "Vivo",
+            "Model" : "V30e",
+            "Real_Price" : "Rs. 32,909",
+            "Price" : "Rs. 27,999",
+            "Discount" : "15% OFF",
+            "SortRealPrice":32909,
+            "SortDiscount":15,
+            "SortPrice" : 27999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/vivo-v30e-5g-velvet-red-128gb-8gb-ram-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "17.22 cm ( 6.78 inch ) AMOLED Display",
+                "Features2" : "50MP + 8MP Rear Camera | 50MP Front Camera",
+                "Features3" : "Qualcomm Snapdragon 6 Gen 1 Chipset | 5500 mAh Battery 44W Charger Support"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/vivo-v30e-5g-velvet-red-128gb-8gb-ram-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/vivo-v30e-5g-velvet-red-128gb-8gb-ram-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/vivo-v30e-5g-velvet-red-128gb-8gb-ram-side-view.png"
+            }
+        },
+        {
+            "id" : 7,
+            "Name" : "Oppo Reno 11 Pro 5G ( Rock Grey,12GB-256GB )",
+            "Brand" : "Oppo",
+            "Model" : "Reno 11 Pro",
+            "Real_Price" : "Rs. 44,999",
+            "Price" : "Rs. 37,999",
+            "Discount" : "16% OFF",
+            "SortRealPrice":44999,
+            "SortDiscount":16,
+            "SortPrice" : 37999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "17.02 cm (6.7 inch), AMOLED Display, 120Hz Refresh Rate",
+                "Features2" : "50MP + 8MP + 32MP Rear Camera | 32MP Front Camera",
+                "Features3" : "4600mAh Battery | 80W Supervooc Flash Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-angled.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-side-view.png"
+            }
+        },
+        {
+            "id" : 8,
+            "Name" : "Nokia G42 5G ( So Pink,8GB-256GB )",
+            "Brand" : "Nokia",
+            "Model" : "G42",
+            "Real_Price" : "Rs. 18,999",
+            "Price" : "Rs. 16,999",
+            "Discount" : "11% OFF",
+            "SortRealPrice":18999,
+            "SortDiscount":11,
+            "SortPrice" : 16999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Nokia-g42-5g-so-pink-256gb-8gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "16.66 cm ( 6.56 inch ), HD+, 90Hz Refresh Rate",
+                "Features2" : "50MP + 2MP + 2MP Rear Camera | 8MP Front Camera",
+                "Features3" : "5000mAh Battery | 20W fast charging support"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Nokia-g42-5g-so-pink-256gb-8gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Nokia-g42-5g-so-pink-256gb-8gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Nokia-g42-5g-so-pink-256gb-8gb-ram-Front-View.png"
+            }
+        }
+    ],
+
+
+
+    "LaptopViewAll" : [
+        {
+            "id" : 3,
+            "Name" : "HP Intel Core i5 12th Gen Windows 11 Home Laptop ( Natural Silver,8GB-512GB )",
+            "Brand" : "Hp",
+            "Model" : "Intel Core i5",
+            "Real_Price" : "Rs. 63,963",
+            "Price" : "Rs. 52,990",
+            "Discount" : "17% OFF",
+            "SortRealPrice":63963,
+            "SortDiscount":17,
+            "SortPrice" : 52990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-side-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel 12th Gen Core i5-1235U Processor",
+                "Features2" : "Intel Iris Xe Graphics | 15.6 FHD Anti-glare Display",
+                "Features3" : "Windows 11 Home | MS Office Home & Student 2021"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-side-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-front-view.png"
+            }
+        },
+        {
+            "id" : 4,
+            "Name" : "Lenovo Yoga 6 Gen 7 Ryzen R7 5700U Windows 11 Home 2 in 1 Laptop ( Dark Teal,16GB-512GB )",
+            "Brand" : "Lenovo",
+            "Model" : "Yoga 6 Gen 7 Ryzen",
+            "Real_Price" : "Rs. 1,13,290",
+            "Price" : "Rs. 73,990",
+            "Discount" : "35% OFF",
+            "SortRealPrice":113290,
+            "SortDiscount":35,
+            "SortPrice" : 73990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "AMD Ryzen 7 5700U Processor",
+                "Features2" : "WUXGA IPS Glossy Touch Display",
+                "Features3" : "Windows 11 Home | AMD Radeon Graphics"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-display.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-slide-view.png"
+            }
+        },
+        {
+            "id" : 9,
+            "Name" : "ASUS TUF Gaming F15 Intel Core i5 11th Gen Windows 11 Home Laptop ( Graphite Black,8GB-512GB )",
+            "Brand" : "Asus",
+            "Model" : "Intel Core i5",
+            "Real_Price" : "Rs. 75,990",
+            "Price" : "Rs. 53,990",
+            "Discount" : "29% OFF",
+            "SortRealPrice":75990,
+            "SortDiscount":29,
+            "SortPrice" : 53990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/asus-tuf-gaming-f15-intel-core-i5-11th-gen-windows-11-home-laptop-fx506hf-hn024w-graphite-black-8gb-ram-512gb-ssd-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core i5-11400H (11th Gen) Processor",
+                "Features2" : "NVIDIA GeForce RTX 2050 | Windows 11 Home",
+                "Features3" : "FHD IPS-level, Anti-glare display"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/asus-tuf-gaming-f15-intel-core-i5-11th-gen-windows-11-home-laptop-fx506hf-hn024w-graphite-black-8gb-ram-512gb-ssd-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/asus-tuf-gaming-f15-intel-core-i5-11th-gen-windows-11-home-laptop-fx506hf-hn024w-graphite-black-8gb-ram-512gb-ssd-specs-03.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/asus-tuf-gaming-f15-intel-core-i5-11th-gen-windows-11-home-laptop-fx506hf-hn024w-graphite-black-8gb-ram-512gb-ssd-specs-05.png"
+            }
+        },
+        {
+            "id" : 10,
+            "Name" : "Apple MacBook Air M2 Chip With 8 Core CPU and 10 Core GPU Mac OS Laptop, 15.3 inch ( Midnight,8GB-256GB )",
+            "Brand" : "Apple",
+            "Model" : "MacBook Air M2 Chip",
+            "Real_Price" : "Rs. 1,34,900",
+            "Price" : "Rs. 1,21,990",
+            "Discount" : "10% OFF",
+            "SortRealPrice":134900,
+            "SortDiscount":10,
+            "SortPrice" : 121990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-macbook-air-m2-chip-with-8-core-cpu-and-10-core-gpu-mac-os-laptop-15-3-inch-midnight-mqkx3hn-a-8gb-ram-256gb-ssd-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Apple M2 chip | 8 Core CPU and 10 Core GPU",
+                "Features2" : "Liquid Retina LED-backlit display with IPS technology",
+                "Features3" : "macOS Ventura | 16-core Neural Engine"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-macbook-air-m2-chip-with-8-core-cpu-and-10-core-gpu-mac-os-laptop-15-3-inch-midnight-mqkx3hn-a-8gb-ram-256gb-ssd-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-macbook-air-m2-chip-with-8-core-cpu-and-10-core-gpu-mac-os-laptop-15-3-inch-midnight-mqkx3hn-a-8gb-ram-256gb-ssd-top-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-macbook-air-m2-chip-with-8-core-cpu-and-10-core-gpu-mac-os-laptop-15-3-inch-midnight-mqkx3hn-a-8gb-ram-256gb-ssd-side-view.png"
+            }
+        },
+        {
+            "id" : 11,
+            "Name" : "Dell Inspiron 5630 Intel Core i5 13th Gen Windows 11 Home Laptop ( 16GB-512GB,Platinum Silver )",
+            "Brand" : "Dell",
+            "Model" : "Intel Core i5 13th Gen",
+            "Real_Price" : "Rs. 79,990",
+            "Price" : "Rs. 79,191",
+            "Discount" : "1% OFF",
+            "SortRealPrice":79990,
+            "SortDiscount":1,
+            "SortPrice" : 79191,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/dell-inspiron-5630-intel-core-i5-13th-gen-windows-11-home-laptop-platinum-silver-in5630p8yrr001ors1-16gb-ram-512gb-ssd-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core i5-1340P (13th Gen) Processor",
+                "Features2" : "FHD Anti-glare WVA Display",
+                "Features3" : "Windows 11 Home | Intel Iris Xe Graphics"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/dell-inspiron-5630-intel-core-i5-13th-gen-windows-11-home-laptop-platinum-silver-in5630p8yrr001ors1-16gb-ram-512gb-ssd-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/dell-inspiron-5630-intel-core-i5-13th-gen-windows-11-home-laptop-platinum-silver-in5630p8yrr001ors1-16gb-ram-512gb-ssd-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/dell-inspiron-5630-intel-core-i5-13th-gen-windows-11-home-laptop-platinum-silver-in5630p8yrr001ors1-16gb-ram-512gb-ssd-top-view.png"
+            }
+        },
+        {
+            "id" : 12,
+            "Name" : "Asus VivoBook S14 Flip Ryzen 5 5600H Windows 11 Home 2in1 Touch Laptop ( Cool Silver,8GB-512GB )",
+            "Brand" : "Asus",
+            "Model" : "VivoBook S14 Flip",
+            "Real_Price" : "Rs. 82,990",
+            "Price" : "Rs. 59,990",
+            "Discount" : "28% OFF",
+            "SortRealPrice":82990,
+            "SortDiscount":28,
+            "SortPrice" : 59990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Asus-vivobook-s14-flip-ryzen-5-5600h-windows-11-home-2in1-touch-laptop-tn3402qa-lz501ws-cool-silver-8gb-ram-512gb-ssd-Front-View.png",
+            "KeySpecifications" : {
+                "Features1" : "AMD Ryzen 5 5600H (5th Gen) Mobile Processor",
+                "Features2" : "AMD Radeon Graphics",
+                "Features3" : "Touch screen Glossy WUXGA IPS display"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Asus-vivobook-s14-flip-ryzen-5-5600h-windows-11-home-2in1-touch-laptop-tn3402qa-lz501ws-cool-silver-8gb-ram-512gb-ssd-Front-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Asus-vivobook-s14-flip-ryzen-5-5600h-windows-11-home-2in1-touch-laptop-tn3402qa-lz501ws-cool-silver-8gb-ram-512gb-ssd-Fold-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Asus-vivobook-s14-flip-ryzen-5-5600h-windows-11-home-2in1-touch-laptop-tn3402qa-lz501ws-cool-silver-8gb-ram-512gb-ssd-Angles-View.png"
+            }
+        }
+    ],
+
+
+    "Apple" : [
+        {
+            "id" : 13,
+            "Name" : "Apple iPhone 15 Pro Max ( Black Titanium, 256GB )",
+            "Brand" : "Apple",
+            "Model" : "15 Pro Max",
+            "Real_Price" : "Rs. 1,59,900",
+            "Price" : "Rs. 1,51,900",
+            "Discount" : "5% OFF",
+            "SortRealPrice":159900,
+            "SortDiscount":5,
+            "SortPrice" : 151900,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-15-pro-max-black-titanium-256gb-Front-Back-View-Image.png",
+            "KeySpecifications" : {
+                "Features1" : "Super Retina XDR display With OLED Display",
+                "Features2" : "48MP + 12MP + 12MP Rear Camera | 12MP Front Camera",
+                "Features3" : "Apple A17 Pro chip"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-15-pro-max-black-titanium-256gb-Front-Back-View-Image.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-15-pro-max-black-titanium-256gb-Back-Front-Back-Side-View-Image.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-15-pro-maxblack-titanium-256gb-Back-Front-View-Image.png"
+            }
+        },
+        {
+            "id" : 2,
+            "Name" : "Apple iPhone 15 Plus ( Green,128GB )",
+            "Brand" : "Apple",
+            "Model" : "15 Plus",
+            "Real_Price" : "Rs. 89,900",
+            "Price" : "Rs. 82,990",
+            "Discount" : "8% OFF",
+            "SortRealPrice":89900,
+            "SortDiscount":8,
+            "SortPrice" : 82990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/apple-iphone-15-plus-green-128gb-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 48MP + 12MP | Front Camera 12MP",
+                "Features2" : "Super Retina XDR OLED Display",
+                "Features3" : "A16 Bionic Chip | Built-in rechargeable lithium-ion Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-green-128gb-cam.png"
+            }
+        },
+        {
+            "id" : 14,
+            "Name" : "Apple iPhone 15 Plus ( Pink,128GB )",
+            "Brand" : "Apple",
+            "Model" : "15 Plus",
+            "Real_Price" : "Rs. 89,990",
+            "Price" : "Rs. 82,990",
+            "Discount" : "8% OFF",
+            "SortRealPrice":89990,
+            "SortDiscount":8,
+            "SortPrice" : 82990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-pink-128gb-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "17.00 cm (6.7 inch), Super Retina XDR, OLED display",
+                "Features2" : "Rear Camera 48MP + 12MP | Front Camera 12MP",
+                "Features3" : "A16 Bionic chip | Built-in rechargeable lithium-ion Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-pink-128gb-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-pink-128gb-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-plus-pink-128gb-box.png"
+            }
+        },
+        {
+            "id" : 15,
+            "Name" : "Apple iPhone 15 ( Blue,512GB )",
+            "Brand" : "Apple",
+            "Model" : "15",
+            "Real_Price" : "Rs. 1,09,900",
+            "Price" : "Rs. 1,00,990",
+            "Discount" : "8% OFF",
+            "SortRealPrice":109900,
+            "SortDiscount":8,
+            "SortPrice" : 100990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-blue-512gb-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "15.54 cm ( 6.1 inch ) Super Retina XDR, OLED display",
+                "Features2" : "Rear Camera 48MP + 12MP | Front Camera 12MP",
+                "Features3" : "A16 Bionic chip | Built-in rechargeable lithium-ion Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-blue-512gb-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-blue-512gb-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-15-blue-512gb-cam.png"
+            }
+        },
+        {
+            "id" : 16,
+            "Name" : "Apple iPhone 13 ( Product Red,128GB )",
+            "Brand" : "Apple",
+            "Model" : "13",
+            "Real_Price" : "Rs. 59,990",
+            "Price" : "Rs. 52,990",
+            "Discount" : "12% OFF",
+            "SortRealPrice":59990,
+            "SortDiscount":12,
+            "SortPrice" : 52990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-13-product-red-128gb-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "12 MP + 12 MP Rear Camera | 12 MP Front Camera",
+                "Features2" : "Apple A15 Bionic chip",
+                "Features3" : "(15.4 cm) 6.1 inches Super Retina XDR display OLED display"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-13-product-red-128gb-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-13-product-red-128gb-33.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/apple-iphone-13-product-red-128gb-22.png"
+            }
+        },
+        {
+            "id" : 17,
+            "Name" : "Apple iPhone 14 Pro ( Deep Purple,1TB )",
+            "Brand" : "Apple",
+            "Model" : "14 Pro",
+            "Real_Price" : "Rs. 1,79,900",
+            "Price" : "Rs. 1,72,990",
+            "Discount" : "4% OFF",
+            "SortRealPrice":179900,
+            "SortDiscount":4,
+            "SortPrice" : 172990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-14-pro-deep-purple-1TB-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Super Retina XDR display With OLED Display",
+                "Features2" : "48MP + 12MP + 12MP Rear Camera | 12MP Front Camera",
+                "Features3" : "Apple A16 Bionic chip"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Apple-iphone-14-pro-deep-purple-1TB-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/pple-iphone-14-pro-deep-purple-1tb-Magical-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/pple-iphone-14-pro-deep-purple-1tb-Back-Right-View.png"
+            }
+        }
+    ],
+
+
+
+    "Samsung" : [
+        {
+            "id" : 1,
+            "Name" : "Samsung Galaxy S24 Ultra 5G ( Titanium Violet, 12GB-256GB )",
+            "Brand" : "Samsung",
+            "Model" : "S24",
+            "Real_Price" : "Rs. 1,34,999",
+            "Price" : "Rs. 1,29,999",
+            "Discount" : "4% OFF",
+            "SortRealPrice":134999,
+            "SortDiscount":4,
+            "SortPrice" : 129999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 200MP + 50 MP + 12MP + 10MP | Front Camera 12MP",
+                "Features2" : "Dynamic AMOLED | 120Hz Refresh Rate",
+                "Features3" : "5000 mAh Battery | 45W Fast Charging Support"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-256gb-Side-View.png"
+            }
+        },
+        {
+            "id" : 18,
+            "Name" : "Samsung Galaxy Z Flip 5 5G ( Green, 8GB-256GB )",
+            "Brand" : "Samsung",
+            "Model" : "Z Flip 5",
+            "Real_Price" : "Rs. 1,02,999",
+            "Price" : "Rs. 99,999",
+            "Discount" : "3% OFF",
+            "SortRealPrice":102999,
+            "SortDiscount":3,
+            "SortPrice" : 99999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-Galaxy-Z-Flip-5-5G-Green-8GB-256GB-right-view.png",
+            "KeySpecifications" : {
+                "Features1" : "17.03 cm (6.7 Inch) Corning Gorilla Glass Victus 2",
+                "Features2" : "12MP Ultra Wide Camera + 12MP Wide Camera | 10MP Selfie Camera",
+                "Features3" : "3700mAh Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-Galaxy-Z-Flip-5-5G-Green-8GB-256GB-right-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-Galaxy-Z-Flip-5-5G-Green-8GB-256GB-front-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-Galaxy-Z-Flip-5-5G-Green-8GB-256GB-top-view.png"
+            }
+        },
+        {
+            "id" : 19,
+            "Name" : "Samsung Galaxy A55 5G ( Awesome Iceblue, 8GB-256GB )",
+            "Brand" : "Samsung",
+            "Model" : "A55",
+            "Real_Price" : "Rs. 45,999",
+            "Price" : "Rs. 42,999",
+            "Discount" : "7% OFF",
+            "SortRealPrice":45999,
+            "SortDiscount":7,
+            "SortPrice" : 42999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a55-5g-awesome-iceblue-256gb-8gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "17.00 cm (6.7 inch), Super Retina XDR, OLED display",
+                "Features2" : "Rear Camera 48MP + 12MP | Front Camera 12MP",
+                "Features3" : "A16 Bionic chip | Built-in rechargeable lithium-ion Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a55-5g-awesome-iceblue-256gb-8gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a55-5g-awesome-iceblue-256gb-8gb-ram-Back-Left-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a55-5g-awesome-iceblue-256gb-8gb-ram-Side-View.png"
+            }
+        },
+        {
+            "id" : 20,
+            "Name" : "Samsung Galaxy S23 FE 5G ( Tangerine, 8GB-256GB )",
+            "Brand" : "Samsung",
+            "Model" : "S23 FE",
+            "Real_Price" : "Rs. 84,999",
+            "Price" : "Rs. 57,999",
+            "Discount" : "32% OFF",
+            "SortRealPrice":84999,
+            "SortDiscount":32,
+            "SortPrice" : 57999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s23-fe-5g-tangerine-256gb-8gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "16.31cm (6.4 inch) Dynamic AMOLED 2X FHD+",
+                "Features2" : "50MP + 12MP + 8MP Rear Camera | 10MP Front Camera",
+                "Features3" : "4500mAh Battery | Samsung Exynos 2200"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s23-fe-5g-tangerine-256gb-8gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s23-fe-5g-tangerine-256gb-8gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-s23-fe-5g-tangerine-256gb-8gb-ram-Side-View.png"
+            }
+        },
+        {
+            "id" : 21,
+            "Name" : "Samsung Galaxy Z Fold 5 5G ( Phantom Black, 12GB-512GB )",
+            "Brand" : "Samsung",
+            "Model" : "Z Fold 5",
+            "Real_Price" : "Rs. 1,64,999",
+            "Price" : "Rs. 1,64,999",
+            "Discount" : "0% OFF",
+            "SortRealPrice":164999,
+            "SortDiscount":0,
+            "SortPrice" : 164999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/samsung-galaxy-z-fold-5-phantom-black-512gb-12gb-ram-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "10MP + 50MP + 12MP Rear Camera | 10MP Front Camera",
+                "Features2" : "19.21cm (7.6 inch) Dynamic AMOLED Display",
+                "Features3" : "4400mAh Battery Capacity"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/samsung-galaxy-z-fold-5-phantom-black-512gb-12gb-ram-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/samsung-galaxy-z-fold-5-phantom-black-512gb-12gb-ram-front.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/samsung-galaxy-z-fold-5-phantom-black-512gb-12gb-ram-right-front-view.png"
+            }
+        },
+        {
+            "id" : 22,
+            "Name" : "Samsung Galaxy A03 ( Black,3GB-32GB )",
+            "Brand" : "Samsung",
+            "Model" : "A03",
+            "Real_Price" : "Rs. 10,499",
+            "Price" : "Rs. 9,999",
+            "Discount" : "5% OFF",
+            "SortRealPrice":10499,
+            "SortDiscount":5,
+            "SortPrice" : 9999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a03-black-32gb-3gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "16.51 cm (6.5 inch), PLS TFT LCD Display",
+                "Features2" : "48MP + 2MP Rear Camera | 5MP Front Camera",
+                "Features3" : "5000mAh Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a03-black-32gb-3gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a03-black-32gb-3gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Samsung-galaxy-a03-black-32gb-3gb-ram-Side-View.png"
+            }
+        }
+    ],
+
+
+
+    "Realme" : [
+        {
+            "id" : 23,
+            "Name" : "Realme GT 6T 5G ( Fluid Silver,12GB-512GB )",
+            "Brand" : "Realme",
+            "Model" : "Gt 6T",
+            "Real_Price" : "Rs. 41,999",
+            "Price" : "Rs. 39,999",
+            "Discount" : "5% OFF",
+            "SortRealPrice":41999,
+            "SortDiscount":5,
+            "SortPrice" : 39999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-gt-6t-5g-fluid-silver-512gb-12gb-ram-modle-view.png",
+            "KeySpecifications" : {
+                "Features1" : "17.22cm (6.78inch),Hyper Display, Corning Gorilla Glass Victus 2",
+                "Features2" : "Sony 50MP + 8MP Rear Camera | Front Camera 32MP",
+                "Features3" : "5500mAh Massive Battery | 120W SUPERVOOC Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-gt-6t-5g-fluid-silver-512gb-12gb-ram-modle-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-gt-6t-5g-fluid-silver-512gb-12gb-ram-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-gt-6t-5g-fluid-silver-512gb-12gb-ram-front-side-view.png"
+            }
+        },
+        {
+            "id" : 24,
+            "Name" : "Realme 12 Pro Plus 5G ( Submarine Blue,8GB-256GB )",
+            "Brand" : "Realme",
+            "Model" : "12 Pro Plus",
+            "Real_Price" : "Rs. 35,999",
+            "Price" : "Rs. 31,999",
+            "Discount" : "11% OFF",
+            "SortRealPrice":35999,
+            "SortDiscount":11,
+            "SortPrice" : 31999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12-pro-plus-5g-submarine-blue-8gb-256gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "17.02cm ( 6.7 inch ), Curved Vision Display, 120Hz Refresh Rate",
+                "Features2" : "64MP + 50MP + 8MP Rear Camera | 32MP Front Camera",
+                "Features3" : "Snapdragon 7s Gen 2 | 5000mAh Battery | 67W SUPERVOOC Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12-pro-plus-5g-submarine-blue-8gb-256gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12-pro-plus-5g-submarine-blue-8gb-256gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12-pro-plus-5g-submarine-blue-8gb-256gb-ram-Side-View.png"
+            }
+        },
+        {
+            "id" : 25,
+            "Name" : "Realme 12x 5G ( Twilight Purple,6GB-128GB )",
+            "Brand" : "Realme",
+            "Model" : "12x",
+            "Real_Price" : "Rs. 17,999",
+            "Price" : "Rs. 13,499",
+            "Discount" : "25% OFF",
+            "SortRealPrice":17999,
+            "SortDiscount":25,
+            "SortPrice" : 13499,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "17.07 cm ( 6.72 inch ), Up to 120Hz Refresh Rate, FHD+",
+                "Features2" : "50MP+ 2MP Rear Camera | 8MP Front Camera",
+                "Features3" : "5000mAh Battery | 45W SUPERVOOC Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-12x-5g-twilight-purple-128gb-6gb-ram-Front-Side-View.png"
+            }
+        },
+        {
+            "id" : 26,
+            "Name" : "Realme C65 5G ( Glowing Black,6GB-128GB )",
+            "Brand" : "Realme",
+            "Model" : "C65",
+            "Real_Price" : "Rs. 14,999",
+            "Price" : "Rs. 12,499",
+            "Discount" : "17% OFF",
+            "SortRealPrice":14999,
+            "SortDiscount":17,
+            "SortPrice" : 12499,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-c65-5g-glowing-black-128gb-6gb-ram-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "16.94cm ( 6.67 inch ), Eye Comfort Display, 120Hz",
+                "Features2" : "50MP AI Camera Rear Camera | 8MP Front Camera",
+                "Features3" : "MediaTek Dimensity 6300 5G Chipset | 5000mAh Battery | 15W Quick Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-c65-5g-glowing-black-128gb-6gb-ram-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-c65-5g-glowing-black-128gb-6gb-ram-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/realme-c65-5g-glowing-black-128gb-6gb-ram-side-view.png"
+            }
+        },
+        {
+            "id" : 27,
+            "Name" : "Realme 11 Pro 5G ( Sunrise Beige,12GB-256GB )",
+            "Brand" : "Realme",
+            "Model" : "11 Pro",
+            "Real_Price" : "Rs. 30,999",
+            "Price" : "Rs. 27,999",
+            "Discount" : "10% OFF",
+            "SortRealPrice":30999,
+            "SortDiscount":10,
+            "SortPrice" : 27999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-11-pro-5g-sunrise-beige-256gb-12gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "17.02 cm (6.7inch) AMOLED Display",
+                "Features2" : "100MP + 2MP Rear Camera | 16MP Front Camera",
+                "Features3" : "Dimensity 7050 5G Chipset | 5000mAh Battery | 67W SUPERVOOC Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-11-pro-5g-sunrise-beige-256gb-12gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-11-pro-5g-sunrise-beige-256gb-12gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-11-pro-5g-sunrise-beige-256gb-12gb-ram-Side-View.png"
+            }
+        },
+        {
+            "id" : 28,
+            "Name" : "Realme 9i 5G ( Rocking Black,4GB-64GB )",
+            "Brand" : "Realme",
+            "Model" : "9i",
+            "Real_Price" : "Rs. 17,999",
+            "Price" : "Rs. 12,999",
+            "Discount" : "28% OFF",
+            "SortRealPrice":17999,
+            "SortDiscount":28,
+            "SortPrice" : 12999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-9i-5g-rocking-black-64gb-4gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "16.7 cm (6.6 inch) Ultra Smooth Display",
+                "Features2" : "50MP+ Portrait Camera + 4cm Macro Camera | 8MP Selfie Camera",
+                "Features3" : "5000mAh Battery | 18W Fast Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-9i-5g-rocking-black-64gb-4gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-9i-5g-rocking-black-64gb-4gb-ram-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Realme-9i-5g-rocking-black-64gb-4gb-ram-Bottom-View.png"
+            }
+        }                
+    ],
+
+
+
+    "Hp" : [
+        {
+            "id" : 3,
+            "Name" : "HP Intel Core i5 12th Gen Windows 11 Home Laptop ( Natural Silver,8GB-512GB )",
+            "Brand" : "Hp",
+            "Model" : "Intel Core i5",
+            "Real_Price" : "Rs. 63,963",
+            "Price" : "Rs. 52,990",
+            "Discount" : "17% OFF",
+            "SortRealPrice":63963,
+            "SortDiscount":17,
+            "SortPrice" : 52990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-side-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel 12th Gen Core i5-1235U Processor",
+                "Features2" : "Intel Iris Xe Graphics | 15.6 FHD Anti-glare Display",
+                "Features3" : "Windows 11 Home | MS Office Home & Student 2021"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-side-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/HP-Intel-Core-i5-12th-Gen-Windows-11-Home-Laptop-15s-fq5329TU-Natural-Silver-8GB-512GB-front-view.png"
+            }
+        },
+        {
+            "id" : 29,
+            "Name" : "HP All-in-One Intel Core i3 12th Gen Windows 11 Home Desktop PC ( Starry White,16GB-512GB )",
+            "Brand" : "Hp",
+            "Model" : "All-in-One Intel Core i3 12th Gen",
+            "Real_Price" : "Rs. 61,809",
+            "Price" : "Rs. 52,490",
+            "Discount" : "15% OFF",
+            "SortRealPrice":61809,
+            "SortDiscount":15,
+            "SortPrice" : 52490,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-all-in-one-intel-core-i3-12th-gen-windows-11-home-desktop-pc-24-cb1701-starry-white-16gb-512gb-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "12th Generation Intel Core i3 processor",
+                "Features2" : "Windows 11 Home Single Language in S mode",
+                "Features3" : "Intel UHD Graphics"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-all-in-one-intel-core-i3-12th-gen-windows-11-home-desktop-pc-24-cb1701-starry-white-16gb-512gb-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-all-in-one-intel-core-i3-12th-gen-windows-11-home-desktop-pc-24-cb1701-starry-white-16gb-512gb-left-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-all-in-one-intel-core-i3-12th-gen-windows-11-home-desktop-pc-24-cb1701-starry-white-16gb-512gb-back-view.png"
+            }
+        },
+        {
+            "id" : 30,
+            "Name" : "HP Intel Core i5 12th Gen Windows 11 Home Laptop ( Natural Silver,16GB-512GB )",
+            "Brand" : "Hp",
+            "Model" : "Intel Core i5 12th Gen",
+            "Real_Price" : "Rs. 68,223",
+            "Price" : "Rs. 58,490",
+            "Discount" : "14% OFF",
+            "SortRealPrice":68223,
+            "SortDiscount":14,
+            "SortPrice" : 58490,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-intel-core-i5-12th-gen-windows-11-home-laptop-15s-fq5330tu-natural-silver-16gb-512gb-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core i5-1235U (up to 4.4 GHz with Intel Turbo Boost Technology)",
+                "Features2" : "Intel Iris Xe Graphics | 15.6 FHD Anti-glare Display",
+                "Features3" : "12th Generation Intel Core i5 processor"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-intel-core-i5-12th-gen-windows-11-home-laptop-15s-fq5330tu-natural-silver-16gb-512gb-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-intel-core-i5-12th-gen-windows-11-home-laptop-15s-fq5330tu-natural-silver-16gb-512gb-left-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-intel-core-i5-12th-gen-windows-11-home-laptop-15s-fq5330tu-natural-silver-16gb-512gb-right-view.png"
+            }
+        },
+        {
+            "id" : 31,
+            "Name" : "HP Pavilion x360 Intel Core i5 13th Gen Windows 11 Home 2-in-1 Laptop ( Pale Rose Gold,16GB-1TB )",
+            "Brand" : "Hp",
+            "Model" : "Pavilion x360 Intel Core i5 13th Gen",
+            "Real_Price" : "Rs. 95,006",
+            "Price" : "Rs. 78,990",
+            "Discount" : "17% OFF",
+            "SortRealPrice":95006,
+            "SortDiscount":17,
+            "SortPrice" : 78990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-pavilion-x360-intel-core-i5-13th-gen-windows-11-home-2-in-1-laptop-14-ek1009tu-pale-rose-gold-16gb-1tb-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core i5 (13th Gen) processor",
+                "Features2" : "Windows 11 Home",
+                "Features3" : "Intel Iris Xe Graphics"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-pavilion-x360-intel-core-i5-13th-gen-windows-11-home-2-in-1-laptop-14-ek1009tu-pale-rose-gold-16gb-1tb-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-pavilion-x360-intel-core-i5-13th-gen-windows-11-home-2-in-1-laptop-14-ek1009tu-pale-rose-gold-16gb-1tb-stright.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-pavilion-x360-intel-core-i5-13th-gen-windows-11-home-2-in-1-laptop-14-ek1009tu-pale-rose-gold-16gb-1tb-back-view.png"
+            }
+        },
+        {
+            "id" : 32,
+            "Name" : "HP OMEN Transcend Gaming OLED Intel Core Ultra 7 Windows 11 Home Laptop ( Shadow Black, 16GB-1TB )",
+            "Brand" : "Hp",
+            "Model" : "OMEN Transcend Gaming OLED Intel Core Ultra 7",
+            "Real_Price" : "Rs. 1,91,668",
+            "Price" : "Rs. 1,69,999",
+            "Discount" : "11% OFF",
+            "SortRealPrice":191668,
+            "SortDiscount":11,
+            "SortPrice" : 169999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-omen-transcend-gaming-oled-intel-core-ultra-7-windows-11-home-laptop-14-fb0007tx-shadow-black-16gb-1tb-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core Ultra 7 Processor | Dual Speakers Tuned By HyperX",
+                "Features2" : "Windows 11 Home | OMEN Tempest Cooling",
+                "Features3" : "NVIDIA GeForce RTX 4060 | Ultra Vibrant HyperX RGB Keyboard"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-omen-transcend-gaming-oled-intel-core-ultra-7-windows-11-home-laptop-14-fb0007tx-shadow-black-16gb-1tb-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-omen-transcend-gaming-oled-intel-core-ultra-7-windows-11-home-laptop-14-fb0007tx-shadow-black-16gb-1tb-right-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-omen-transcend-gaming-oled-intel-core-ultra-7-windows-11-home-laptop-14-fb0007tx-shadow-black-16gb-1tb-back-view.png"
+            }
+        },
+        {
+            "id" : 33,
+            "Name" : "HP Envy x360 Intel Core i5 12th Gen Windows 11 Home 2-in-1 Laptop ( Natural Silver,16GB-512GB )",
+            "Brand" : "Hp",
+            "Model" : "Envy x360 Intel Core i5 12th Gen",
+            "Real_Price" : "Rs. 99,147",
+            "Price" : "Rs. 89,999",
+            "Discount" : "9% OFF",
+            "SortRealPrice":99147,
+            "SortDiscount":9,
+            "SortPrice" : 89999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-envy-x360-intel-core-i5-12th-gen-windows-11-home-2-in-1-laptop-13-bf0121tu-natural-silver-16gb-512gb-stright.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Evo Core i5-1230U (12th Gen) Processor",
+                "Features2" : "Windows 11 Home | Intel Iris X Graphics",
+                "Features3" : "HP Rechargeable MPP2.0 Tilt Pen"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-envy-x360-intel-core-i5-12th-gen-windows-11-home-2-in-1-laptop-13-bf0121tu-natural-silver-16gb-512gb-stright.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-envy-x360-intel-core-i5-12th-gen-windows-11-home-2-in-1-laptop-13-bf0121tu-natural-silver-16gb-512gb-front-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/hp-envy-x360-intel-core-i5-12th-gen-windows-11-home-2-in-1-laptop-13-bf0121tu-natural-silver-16gb-512gb-left-view.png"
+            }
+        }
+    ],
+
+
+
+    "Oppo" : [
+        {
+            "id" : 34,
+            "Name" : "Oppo F25 Pro 5G ( Coral Purple, 8GB-128GB )",
+            "Brand" : "Oppo",
+            "Model" : "F25 Pro",
+            "Real_Price" : "Rs. 28,999",
+            "Price" : "Rs. 23,999",
+            "Discount" : "17% OFF",
+            "SortRealPrice":28999,
+            "SortDiscount":17,
+            "SortPrice" : 23999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-F25-Pro-5G-Ocean-Blue-8GB-128GB-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 64MP + 8MP + 2MP | Front Camera 32MP",
+                "Features2" : "17.02 cm ( 6.7 inch ) Display 120Hz Refresh Rate",
+                "Features3" : "5000mAh Battery | MediaTek Dimensity 7050"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-F25-Pro-5G-Ocean-Blue-8GB-128GB-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-F25-Pro-5G-Ocean-Blue-8GB-128GB-Side-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-F25-Pro-5G-Ocean-Blue-8GB-128GB-Top-Bottom-View.png"
+            }
+        },
+        {
+            "id" : 35,
+            "Name" : "Oppo A15s ( Dynamic Black,4GB-64GB )",
+            "Brand" : "Oppo",
+            "Model" : "A15s",
+            "Real_Price" : "Rs. 14,900",
+            "Price" : "Rs. 14,990",
+            "Discount" : "0% OFF",
+            "SortRealPrice":14900,
+            "SortDiscount":0,
+            "SortPrice" : 14990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-a15s-Dynamic-Black-64gb-4gb-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 13MP | Front Camera 8MP",
+                "Features2" : "Mediatek Octa Core Processor",
+                "Features3" : "4230mAh Battery"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-a15s-Dynamic-Black-64gb-4gb-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-a15s-Dynamic-Black-64gb-4gb-Back-Left-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-a15s-Dynamic-Black-64gb-4gb-Specs.png"
+            }
+        },
+        {
+            "id" : 36,
+            "Name" : "Oppo A59 5G ( Silk Gold, 4GB-128GB )",
+            "Brand" : "Oppo",
+            "Model" : "A59",
+            "Real_Price" : "Rs. 17,999",
+            "Price" : "Rs. 13,999",
+            "Discount" : "22% OFF",
+            "SortRealPrice":17999,
+            "SortDiscount":22,
+            "SortPrice" : 13999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-a59-5g-silk-gold-4gb-128gb-front-back-side-view.png",
+            "KeySpecifications" : {
+                "Features1" : "13MP + 2MP Rear Camera | 8MP Front Camera",
+                "Features2" : "16.66 cm (6.56 inch) Display | 90Hz Refresh Rate",
+                "Features3" : "5000mAh Battery | 33W SUPERVOOC Fast Charger"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-a59-5g-silk-gold-4gb-128gb-front-back-side-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-a59-5g-silk-gold-4gb-128gb-angled.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-a59-5g-silk-gold-4gb-128gb-port-view.png"
+            }
+        },
+        {
+            "id" : 37,
+            "Name" : "Oppo Find N3 Flip 5G ( Cream Gold, 12GB-256GB )",
+            "Brand" : "Oppo",
+            "Model" : "N3 Flip",
+            "Real_Price" : "Rs. 99,999",
+            "Price" : "Rs. 74,999",
+            "Discount" : "25% OFF",
+            "SortRealPrice":74999,
+            "SortDiscount":25,
+            "SortPrice" : 74999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-find-n3-flip-5g-cream-gold-256gb-12gb-ram-Front-Back-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Rear Camera 50MP + 32MP + 48MP | Front Camera 32MP",
+                "Features2" : "AMOLED (flexible) Display | Refresh Rate : 120Hz",
+                "Features3" : "4300mAh Battery | 44W SUPERVOOC Fast Charger"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-find-n3-flip-5g-cream-gold-256gb-12gb-ram-Front-Back-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-find-n3-flip-5g-cream-gold-256gb-12gb-ram-Front-Back-Normal-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Oppo-find-n3-flip-5g-cream-gold-256gb-12gb-ram-Back-Flip-View  .png"
+            }
+        },
+        {
+            "id" : 38,
+            "Name" : "Oppo Reno 11 Pro 5G ( Rock Grey,12GB-256GB )",
+            "Brand" : "Oppo",
+            "Model" : "Reno 11 Pro",
+            "Real_Price" : "Rs. 44,999",
+            "Price" : "Rs. 37,999",
+            "Discount" : "16% OFF",
+            "SortRealPrice":44999,
+            "SortDiscount":16,
+            "SortPrice" : 37999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "17.02 cm (6.7 inch), AMOLED Display, 120Hz Refresh Rate",
+                "Features2" : "50MP + 8MP + 32MP Rear Camera | 32MP Front Camera",
+                "Features3" : "4600mAh Battery | 80W Supervooc Flash Charge"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-angled.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-reno-11-pro-5g-rock-grey-256gb-12gb-ram-side-view.png"
+            }
+        },
+        {
+            "id" : 39,
+            "Name" : "Oppo F21s Pro ( Starlight Black,8GB-128GB )",
+            "Brand" : "Oppo",
+            "Model" : "F21s Pro",
+            "Real_Price" : "Rs. 27,999",
+            "Price" : "Rs. 19,999",
+            "Discount" : "29% OFF",
+            "SortRealPrice":27999,
+            "SortDiscount":29,
+            "SortPrice" : 19999,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-f21s-pro-starlight-black-128gb-8gb-ram-front-back-view-65.png",
+            "KeySpecifications" : {
+                "Features1" : "16.2 cm (6.4 inch), AMOLED Display, FHD+",
+                "Features2" : "64MP + 2MP + 2MP Rear Camera | 32MP Front Camera",
+                "Features3" : "4500mAh Battery | 33W SuperVOOCTM Charger"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-f21s-pro-starlight-black-128gb-8gb-ram-front-back-view-65.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-f21s-pro-starlight-black-128gb-8gb-ram-back-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/oppo-f21s-pro-starlight-black-128gb-8gb-ram-side-view.png"
+            }
+        }
+    ],
+
+
+
+    "Lenovo" : [
+        {
+            "id" : 40,
+            "Name" : "Lenovo IdeaPad Gaming 3 AMD Ryzen R5 Windows 11 Home Laptop ( Shadow Black,8GB-512GB )",
+            "Brand" : "Lenovo",
+            "Model" : "IdeaPad Gaming 3 AMD Ryzen R5",
+            "Real_Price" : "Rs. 79,390",
+            "Price" : "Rs. 49,490",
+            "Discount" : "38% OFF",
+            "SortRealPrice":79390,
+            "SortDiscount":38,
+            "SortPrice" : 49490,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-gaming-3-amd-ryzen-r5-windows-11-home-laptop-82k2028qin-shadow-black-8gb-512gb-front-back-view.png",
+            "KeySpecifications" : {
+                "Features1" : "AMD Ryzen 5 5500H Processor",
+                "Features2" : "Windows 11 Home Single Language 64",
+                "Features3" : "NVIDIA GeForce RTX 2050"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-gaming-3-amd-ryzen-r5-windows-11-home-laptop-82k2028qin-shadow-black-8gb-512gb-front-back-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-gaming-3-amd-ryzen-r5-windows-11-home-laptop-82k2028qin-shadow-black-8gb-512gb-side-view.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-gaming-3-amd-ryzen-r5-windows-11-home-laptop-82k2028qin-shadow-black-8gb-512gb-back-view.png"
+            }
+        },
+        {
+            "id" : 4,
+            "Name" : "Lenovo Yoga 6 Gen 7 Ryzen R7 5700U Windows 11 Home 2 in 1 Laptop ( Dark Teal,16GB-512GB )",
+            "Brand" : "Lenovo",
+            "Model" : "Yoga 6 Gen 7 Ryzen",
+            "Real_Price" : "Rs. 1,13,290",
+            "Price" : "Rs. 73,990",
+            "Discount" : "35% OFF",
+            "SortRealPrice":113290,
+            "SortDiscount":35,
+            "SortPrice" : 73990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-front-view.png",
+            "KeySpecifications" : {
+                "Features1" : "AMD Ryzen 7 5700U Processor",
+                "Features2" : "WUXGA IPS Glossy Touch Display",
+                "Features3" : "Windows 11 Home | AMD Radeon Graphics"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-front-view.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-display.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-yoga-6-gen-7-ryzen-r7-5700u-windows-11-home-2-in-1-laptop-dark-teal-82ud0068in-16gb-ram-512gb-ssd-slide-view.png"
+            }
+        },
+        {
+            "id" : 41,
+            "Name" : "Lenovo LOQ Gaming Intel Core i5 12th Gen Windows 11 Home Laptop ( Luna Grey,16GB-512GB )",
+            "Brand" : "Lenovo",
+            "Model" : "LOQ Gaming Intel Core i5 12th Gen",
+            "Real_Price" : "Rs. 97,090",
+            "Price" : "Rs. 74,990",
+            "Discount" : "23% OFF",
+            "SortRealPrice":97090,
+            "SortDiscount":23,
+            "SortPrice" : 74990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-loq-gaming-intel-core-i5-12th-gen-windows-11-home-laptop-83gs000pin-luna-grey-16gb-512gb-0432.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core i5-12450HX Processor",
+                "Features2" : "NVIDIA GeForce RTX 3050",
+                "Features3" : "Windows 11 Home Single Language, English"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-loq-gaming-intel-core-i5-12th-gen-windows-11-home-laptop-83gs000pin-luna-grey-16gb-512gb-0432.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-loq-gaming-intel-core-i5-12th-gen-windows-11-home-laptop-83gs000pin-luna-grey-16gb-512gb-098.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-loq-gaming-intel-core-i5-12th-gen-windows-11-home-laptop-83gs000pin-luna-grey-16gb-512gb-top-vieww.png"
+            }
+        },
+        {
+            "id" : 42,
+            "Name" : "Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen Windows 11 Home Laptop ( Cloud Grey,16GB-512GB )",
+            "Brand" : "Lenovo",
+            "Model" : "IdeaPad Slim 5 Intel Core i5 12th Gen",
+            "Real_Price" : "Rs. 62,990",
+            "Price" : "Rs. 62,990",
+            "Discount" : "0% OFF",
+            "SortRealPrice":62990,
+            "SortDiscount":0,
+            "SortPrice" : 62990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-slim-5-intel-core-i5-12th-gen-windows-11-home-laptop-83bg000din-cloud-grey-16gb-ram-512gb-ssd-Front-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core i5-12450H (12th Gen) Processor",
+                "Features2" : "Integrated Intel UHD Graphics",
+                "Features3" : "Windows 11 Home Single Language, English"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-slim-5-intel-core-i5-12th-gen-windows-11-home-laptop-83bg000din-cloud-grey-16gb-ram-512gb-ssd-Front-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-slim-5-intel-core-i5-12th-gen-windows-11-home-laptop-83bg000din-cloud-grey-16gb-ram-512gb-ssd-Back-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-slim-5-intel-core-i5-12th-gen-windows-11-home-laptop-83bg000din-cloud-grey-16gb-ram-512gb-ssd-Front-Right-View.png"
+            }
+        },
+        {
+            "id" : 43,
+            "Name" : "Lenovo IdeaPad 3 Intel Core i3 11th Gen Windows 11 Home Laptop ( Arctic Grey,8GB-512GB )",
+            "Brand" : "Lenovo",
+            "Model" : "IdeaPad 3 Intel Core i3 11th Gen",
+            "Real_Price" : "Rs. 43,990",
+            "Price" : "Rs. 34,990",
+            "Discount" : "20% OFF",
+            "SortRealPrice":43990,
+            "SortDiscount":20,
+            "SortPrice" : 34990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-3-intel-core-i3-11th-gen-windows-11-home-arctic-grey-laptop-82h801lhin-8gb-ram-512gb-ssd-5.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Core i3-1115G4 (11th Gen) Processor",
+                "Features2" : "FHD with TN (twisted nematic) Anti-glare Display",
+                "Features3" : "Windows 11 Home 64, English | Intel UHD Graphics"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-3-intel-core-i3-11th-gen-windows-11-home-arctic-grey-laptop-82h801lhin-8gb-ram-512gb-ssd-5.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-3-intel-core-i3-11th-gen-windows-11-home-arctic-grey-laptop-82h801lhin-8gb-ram-512gb-ssd-3.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/lenovo-ideapad-3-intel-core-i3-11th-gen-windows-11-home-arctic-grey-laptop-82h801lhin-8gb-ram-512gb-ssd-2.png"
+            }
+        },
+        {
+            "id" : 44,
+            "Name" : "Lenovo IdeaPad 1 Intel Celeron N4020 Windows 11 Home Laptop, 82V700BSIN ( Cloud Grey,8GB-256GB )",
+            "Brand" : "Lenovo",
+            "Model" : "IdeaPad 1 Intel Celeron N4020",
+            "Real_Price" : "Rs. 29,990",
+            "Price" : "Rs. 26,990",
+            "Discount" : "10% OFF",
+            "SortRealPrice":29990,
+            "SortDiscount":10,
+            "SortPrice" : 26990,
+            "Images" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-1-intel-celeron-n4020-windows-11-home-laptop-82v700bsin-cloud-grey-8gb-ram-256gb-ssd-Front-View.png",
+            "KeySpecifications" : {
+                "Features1" : "Intel Celeron N4020 Processor",
+                "Features2" : "Integrated Intel UHD Graphics 600",
+                "Features3" : "Windows 11 Home Single Language, English"
+            },
+            "ItemImg" : {
+                "Img1" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-1-intel-celeron-n4020-windows-11-home-laptop-82v700bsin-cloud-grey-8gb-ram-256gb-ssd-Front-View.png",
+                "Img2" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-1-intel-celeron-n4020-windows-11-home-laptop-82v700bsin-cloud-grey-8gb-ram-256gb-ssd-AD-View.png",
+                "Img3" : "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=100,height=100,quality=75/product/Lenovo-ideapad-1-intel-celeron-n4020-windows-11-home-laptop-82v700bsin-cloud-grey-8gb-ram-256gb-ssd-Left-View.png"
+            }
+        }
+    ]
+}
